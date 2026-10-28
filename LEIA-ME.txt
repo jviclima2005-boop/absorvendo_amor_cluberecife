@@ -1,0 +1,6 @@
+Arquivos atualizados do site Absorvendo Amor Clube Recife.
+
+Substitua index.html e styles.css no projeto existente, e copie assets/logo-clube-recife.jpg para a pasta assets.
+Mantenha os demais arquivos originais (script.js, site-data.js, imagens existentes e comunicacao.html). Eles não foram enviados nesta conversa.
+
+Alterações: logo do topo, botão Quero doar apontando para #doar; removido bloco de texto Todo gesto tem um ponto de partida; pontos de coleta movidos para dentro da seção de doação, preservando o id collection-list para a integração existente.
